@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am embedded System Engineer<br><br>🌱 I’m currently learning everything<br><br>💬 Ask me about what did you want<br><br>📫 How to reach me mirshahinrzazada@gmail.com<br><br>⚡ Fun fact: I love to draw, reading and play piano</p>
+<p align="left">I am embedded System Engineer<br><br>🌱 I’m currently learning everything<br><br>💬 Ask me about what did you want<br><br>📫 How to reach me mirshahinrzazada@gmail.com<br><br>⚡ Fun fact: I love to draw, reading</p>
 
 ###
 
